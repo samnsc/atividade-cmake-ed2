@@ -1,0 +1,3 @@
+/Users/sam/Developer/atividade-cmake-ed2/build/CMakeFiles/hello.dir
+/Users/sam/Developer/atividade-cmake-ed2/build/CMakeFiles/edit_cache.dir
+/Users/sam/Developer/atividade-cmake-ed2/build/CMakeFiles/rebuild_cache.dir
